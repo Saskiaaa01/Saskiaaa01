@@ -20,11 +20,12 @@ I'm interested in Information Technology, Web Development, Database Management, 
 
 ### 🚀 Featured Projects
 
-**SSLGuard — SSL-Tasikmalaya**
+**[SSLGuard — 
+SSL-Tasikmalaya](https://github.com/Saskiaaa01/SSL-Tasikmalaya)**
 
 A domain and SSL/TLS certificate monitoring system designed to help monitor certificate expiration and support timely notifications.
 
-**DompetKu**
+**[DompetKu](https://github.com/Saskiaaa01/DompetKu)**
 
 A personal finance management web application developed using Laravel.
 
