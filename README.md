@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Saskia Syabani! 👋
 
-<!--
-**Saskiaaa01/Saskiaaa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student at Universitas Bina Sarana Informatika.
 
-Here are some ideas to get you started:
+I'm interested in Information Technology, Web Development, Database Management, and Quality Assurance. I enjoy learning how technology can be used to develop practical solutions through information systems and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Areas of Interest
+- Web Development
+- Database Management
+- System Analysis
+- Software Quality Assurance
+- Information Systems
+
+### 🛠️ Technologies
+- PHP
+- Laravel
+- MySQL
+- Python
+- Git & GitHub
+
+### 🚀 Featured Projects
+
+**SSLGuard — SSL-Tasikmalaya**
+
+A domain and SSL/TLS certificate monitoring system designed to help monitor certificate expiration and support timely notifications.
+
+**DompetKu**
+
+A personal finance management web application developed using Laravel.
+
+### 📫 Connect With Me
+- LinkedIn: [Saskia Syabani](https://www.linkedin.com/in/saskia-syabani/)
+- GitHub: [@Saskiaaa01](https://github.com/Saskiaaa01)
+
+Always learning, building, and exploring technology.
